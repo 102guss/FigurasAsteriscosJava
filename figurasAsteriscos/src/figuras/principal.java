@@ -32,6 +32,8 @@ public class principal {
 		System.out.println("esta figura será una pirámide");
 		Piramide piramide = new Piramide(m);
 		
+		System.out.println("my name is methos");
+		
 	
 	}
 
