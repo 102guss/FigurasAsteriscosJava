@@ -1,0 +1,9 @@
+atajos java
+
+git init
+git status
+git add .
+git add *
+git commit -m "primer commit
+
+https://github.com/102guss/python.git
